@@ -22,6 +22,7 @@
 		C3BEDA0816C95DA60044F88D /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3BEDA0716C95DA60044F88D /* SecondViewController.m */; };
 		C3EF1F3616C989D2008D14FE /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3EF1F3516C989D2008D14FE /* FirstViewController.m */; };
 		C3EF1F3A16C98A0C008D14FE /* FollowingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3EF1F3916C98A0C008D14FE /* FollowingViewController.m */; };
+		D2B2814B16CC534C0014045D /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = D2B2814A16CC534C0014045D /* TestClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,8 @@
 		C3EF1F3516C989D2008D14FE /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		C3EF1F3816C98A0C008D14FE /* FollowingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FollowingViewController.h; sourceTree = "<group>"; };
 		C3EF1F3916C98A0C008D14FE /* FollowingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FollowingViewController.m; sourceTree = "<group>"; };
+		D2B2814916CC534C0014045D /* TestClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestClass.h; sourceTree = "<group>"; };
+		D2B2814A16CC534C0014045D /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +100,8 @@
 				C3BED9EF16C94A510044F88D /* AppDelegate.h */,
 				C3BED9F016C94A510044F88D /* AppDelegate.m */,
 				C3BED9F816C94A510044F88D /* MainStoryboard_iPhone.storyboard */,
+				D2B2814916CC534C0014045D /* TestClass.h */,
+				D2B2814A16CC534C0014045D /* TestClass.m */,
 				C3BEDA0616C95DA60044F88D /* SecondViewController.h */,
 				C3BEDA0716C95DA60044F88D /* SecondViewController.m */,
 				C3BED9FB16C94A510044F88D /* MainStoryboard_iPad.storyboard */,
@@ -198,6 +203,7 @@
 				C3BEDA0816C95DA60044F88D /* SecondViewController.m in Sources */,
 				C3EF1F3616C989D2008D14FE /* FirstViewController.m in Sources */,
 				C3EF1F3A16C98A0C008D14FE /* FollowingViewController.m in Sources */,
+				D2B2814B16CC534C0014045D /* TestClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
